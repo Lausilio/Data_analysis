@@ -36,7 +36,3 @@ The project involves the following tasks:
 5. Plot the distribution of the number of visitors by the distance of the province of origin, and determine which kind of law should be used to describe the distribution.
 6. Create a regression to estimate the expected number of visitors by the distance of the province of origin. Illustrate the difference between the resulting regression and the numbers provided by the Vodafone monitoring, and highlight the five most striking discrepancies from the expectations.
 7. Extract additional interesting information concerning mobility and the flux of visitors and commuters using all the data available (and additional data from ISTAT sources if needed).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
